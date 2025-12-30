@@ -10,3 +10,6 @@ node_modules/
 
 # Env
 .env
+
+# CI
+.github/workflows/playwright.yml
